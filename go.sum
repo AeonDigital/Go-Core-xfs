@@ -1,0 +1,4 @@
+github.com/AeonDigital/Go-Core-xerrors v0.0.1 h1:y19UbvYIHcRu7n6d3uxbruFiPo9Y71I6qcBLl+p7SqY=
+github.com/AeonDigital/Go-Core-xerrors v0.0.1/go.mod h1:jqq9leHGlPh5cdFhJ/Hcp/im0o62Bb8j1g56uSFROHs=
+golang.org/x/sys v0.47.0 h1:o7XGOvZQCADBQQ4Y7VNq2dRWQR7JmOUW8Kxx4ZsNgWs=
+golang.org/x/sys v0.47.0/go.mod h1:4GL1E5IUh+htKOUEOaiffhrAeqysfVGipDYzABqnCmw=
